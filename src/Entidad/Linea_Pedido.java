@@ -10,5 +10,8 @@ package Entidad;
  * @author nicob
  */
 public class Linea_Pedido {
-    
+    int idLinea_Pedido;
+    int cantidad;
+    int precio_vta;
+    int idComida;
 }

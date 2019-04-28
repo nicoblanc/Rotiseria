@@ -2,6 +2,7 @@
 package Interface;
 
 import Entidad.Alimento;
+import Control.Service_Alimento;
 
 public class VentanaAlimento extends javax.swing.JFrame {
     
@@ -142,7 +143,9 @@ public class VentanaAlimento extends javax.swing.JFrame {
     
     
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        
+      Alimento A = new Alimento();
+      A.setDescripcion(jTextField1.getText());
+      A.setStock(Integer.parseInt(jTextField2.getText()));
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed

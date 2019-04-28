@@ -14,10 +14,7 @@ public class Alimento {
     String descripcion;
     int stock;
 
-    public Alimento(int idalimento, String descripcion, int stock) {
-        this.idalimento = idalimento;
-        this.descripcion = descripcion;
-        this.stock = stock;
+    public Alimento() {
     }
 
     public int getIdalimento() {
