@@ -5,14 +5,16 @@
  */
 package Control;
 
+import Entidad.Alimento;
 /**
  *
  * @author nicob
  */
 public class Service_Alimento {
+    //Alimento A;
     
-    public void altaali (String des, int stick){
-     
+    public void altaali (Alimento A){
+    
     }
     
     public void bajaali (){
