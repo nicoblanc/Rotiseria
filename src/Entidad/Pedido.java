@@ -5,6 +5,9 @@
  */
 package Entidad;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author nicob
@@ -16,9 +19,11 @@ public class Pedido {
     private String modificado;
     private int idEstado;
     private int idCliente;
+    private List<Linea_Pedido> lineapedido;
     
 
     public Pedido() {
+        lineapedido = new ArrayList<>();
     }
 
     public int getIdPedido() {
