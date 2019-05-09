@@ -17,16 +17,30 @@ public class Service_Pedido {
     public static void bajaPedido(){
     }
     
-    public  void modificarPedido(){
+    public static void modificarPedido(){
     }
     
-    public void calcularTotal(){
+    public static void calcularTotal(){
     }
     
-    public void obtenerLineaPedido(){
+    public static void obtenerLineaPedido(){
     
     }
     
     //MÉTODOS LINEA_PEDIDO
+    public static void altaLineaPedido(){
     
+    }
+    
+    public static void bajaLineaPedido(){
+    
+    }
+    
+    public static void modificarLineaPedido(){
+    
+    }
+    
+    public static void validarStockComida(){
+    
+    }
 }
