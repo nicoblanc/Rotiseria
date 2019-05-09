@@ -11,4 +11,16 @@ package Control;
  */
 public class Service_Comida {
     
+    public static void altaComida(){
+    }
+    
+    public static void modificarComida(){
+    }
+    
+    public void validarStockAlimento(){
+    }
+    
+    public void actualizarStockComida(){
+    }
+
 }

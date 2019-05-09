@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Interface/VentanaAlimento.java</file>
-            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Control/Service_Alimento.java</file>
-            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Entidad/Linea_Pedido.java</file>
-            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Entidad/Alimento.java</file>
-            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Entidad/Pedido.java</file>
+            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Control/Service_Cliente.java</file>
+            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Control/Service_Comida.java</file>
+            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Control/Service_Categoria.java</file>
+            <file>file:/D:/nicob/Documents/Facultad/UADER/Taller%20de%20Integración/Rotiseria/src/Control/Service_Pedido.java</file>
         </group>
     </open-files>
 </project-private>

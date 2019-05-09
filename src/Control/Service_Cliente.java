@@ -11,4 +11,13 @@ package Control;
  */
 public class Service_Cliente {
     
+    public static void altaCliente(){
+    }
+    
+    public static void bajaCliente(){
+    }
+    
+    public static void modificarCliente(){
+    }
+    
 }

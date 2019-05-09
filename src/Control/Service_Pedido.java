@@ -10,5 +10,23 @@ package Control;
  * @author nicob
  */
 public class Service_Pedido {
+    //MÉTODOS PEDIDO
+    public static void altaPedido(){
+    }
+    
+    public static void bajaPedido(){
+    }
+    
+    public  void modificarPedido(){
+    }
+    
+    public void calcularTotal(){
+    }
+    
+    public void obtenerLineaPedido(){
+    
+    }
+    
+    //MÉTODOS LINEA_PEDIDO
     
 }

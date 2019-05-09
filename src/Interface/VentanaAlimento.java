@@ -146,6 +146,7 @@ public class VentanaAlimento extends javax.swing.JFrame {
       Alimento A = new Alimento();
       A.setDescripcion(jTextField1.getText());
       A.setStock(Integer.parseInt(jTextField2.getText()));
+      Service_Alimento.altaali(A);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed

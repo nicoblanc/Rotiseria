@@ -10,9 +10,9 @@ package Entidad;
  * @author nicob
  */
 public class Alimento {
-    int idalimento;
-    String descripcion;
-    int stock;
+    private int idalimento;
+    private String descripcion;
+    private int stock;
 
     public Alimento() {
     }

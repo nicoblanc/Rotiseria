@@ -11,4 +11,12 @@ package Control;
  */
 public class Service_Categoria {
     
+    public static void altaCategoria(){
+    }
+    
+    public static void bajaCategoria(){
+    }
+    
+    public static void modificacionCategoria(){
+    }
 }
