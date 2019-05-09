@@ -11,21 +11,21 @@ import Entidad.Alimento;
  * @author nicob
  */
 public class Service_Alimento {
-    //Alimento A;
+    Alimento A;
     //Commit prueba
-    public void altaali (Alimento A){
-    
-    }
-    
-    public void bajaali (){
+    public static void altaali (Alimento A){
         
     }
     
-    public void modifiali (){
+    public static void bajaali (){
         
     }
     
-    public void consultaali (){
+    public static void modifiali (){
+        
+    }
+    
+    public static void consultaali (){
         
     }
 }
