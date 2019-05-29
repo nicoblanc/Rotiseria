@@ -16,6 +16,12 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Ventana window= new Ventana();
+        
+        window.setTitle("Management of sale ®");//titulo
+        window.setLocationRelativeTo(null);//centra ventana
+        window.setVisible(true);//que se muestra la ventana
+        
     }
     
 }
