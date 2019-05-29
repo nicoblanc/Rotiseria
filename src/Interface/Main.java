@@ -21,7 +21,7 @@ public class Main {
         window.setTitle("Management of sale ®");//titulo
         window.setLocationRelativeTo(null);//centra ventana
         window.setVisible(true);//que se muestra la ventana
-        
+        //Prueba de Sincronización
     }
     
 }
